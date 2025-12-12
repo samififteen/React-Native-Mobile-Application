@@ -21,11 +21,16 @@ The app is fully cross-platform and runs smoothly on both Android and iOS device
 
 ## 🛠 Tech Stack
 
-- **React Native** — Cross-platform mobile framework  
-- **Expo** — Development/build toolchain  
-- **JavaScript / TypeScript** *(based on project setup)*  
-- **React Navigation / Expo Router** — App navigation  
-- **Axios / Fetch API** — Backend or API communication  
+- **React Native** — Cross-platform mobile framework
+  
+- **Expo** — Development/build toolchain
+    
+- **JavaScript / TypeScript** *(based on project setup)*
+  
+- **React Navigation / Expo Router** — App navigation
+  
+- **Axios / Fetch API** — Backend or API communication
+  
 - **Expo Icons / Custom Components** — UI styling  
 
 ---
