@@ -62,8 +62,11 @@ npm start
 ### 3. Run the application
 
 ➤ You can launch the app in multiple ways:
+
 ➤ Press a to open it in an Android emulator
+
 ➤ Press i to open it in an iOS simulator
+
 ➤ Or scan the QR code using the Expo Go app on your mobile device
 
 ---
@@ -71,10 +74,15 @@ npm start
 ## 🛠 Tech Stack
 
 ➤ **React Native** — Cross-platform app development
+
 ➤ **Expo** — Fast development environment and native APIs
+
 ➤ **JavaScript / TypeScript** — Core programming languages
+
 ➤ **React Navigation / Expo Router** — Screen navigation
+
 ➤ **Axios / Fetch API** — API and backend communication
+
 ➤ **Expo Vector Icons** — UI icons and styling
 
 --
