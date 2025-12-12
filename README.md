@@ -85,7 +85,7 @@ npm start
 
 ➤ **Expo Vector Icons** — UI icons and styling
 
---
+---
 
 ## 📦 Build Instructions
 
