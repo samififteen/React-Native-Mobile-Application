@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@react-navigation/drawer": "^7.5.8",
+    "react-native-image-pan-zoom": "^2.1.12",
+    "react-native-image-zoom-viewer": "^3.0.1"
+  }
+}
